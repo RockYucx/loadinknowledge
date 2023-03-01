@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67f4da13-88fd-4615-b926-d8eb6bd7305c" name="Changes" comment="yucx,fix,重新打包">
+    <list default="true" id="67f4da13-88fd-4615-b926-d8eb6bd7305c" name="Changes" comment="yucx,fix,config base=&quot;.&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/0.styles.68b7fad7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/10.23033a15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/11.613e296d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/12.da12d355.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/13.a64b108e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/3.538a69b8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/4.6eece71d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/5.dac787d8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.37c5cbbf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/guide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide/using-vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/guide/using-vue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677637607231</updated>
-      <workItem from="1677637608473" duration="1120000" />
+      <workItem from="1677637608473" duration="1945000" />
     </task>
     <task id="LOCAL-00001" summary="yucx,fix,重新打包">
       <created>1677637662282</created>
@@ -66,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677638030505</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="yucx,fix,config base=&quot;.&quot;">
+      <created>1677639162139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677639162139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yucx,fix,重新打包" />
-    <option name="LAST_COMMIT_MESSAGE" value="yucx,fix,重新打包" />
+    <MESSAGE value="yucx,fix,config base=&quot;.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="yucx,fix,config base=&quot;.&quot;" />
   </component>
 </project>
